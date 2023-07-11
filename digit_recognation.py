@@ -17,7 +17,7 @@ from tkinter import ttk
 from tkinter import filedialog as fd
 from tkinter.messagebox import showinfo
 
-# digit recognition
+# digit recognition sytem
 
 DIGIT_WIDTH = 10
 DIGIT_HEIGHT = 20
