@@ -64,7 +64,7 @@ pip3 install opencv-python==3.2.0.8
 pip3 install scikit-image==0.12.1
 pip3 install Pillow==2.2.2
 
-git clone https://github.com/pavitrakumar78/Python-Custom-Digit-Recognition.git
+
 
 python NEW_digit_recog.py
 ```
